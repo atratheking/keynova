@@ -1,0 +1,17 @@
+{
+  "name": "Keynova",
+  "size": 64,
+  "background": "#21242B",
+  "border": "#424954",
+  "copper": "#E3A16E",
+  "blue": "#61ACF4",
+  "radius": 14,
+  "strokeWidth": 7,
+  "strokes": [
+    { "from": [17, 14], "to": [17, 50], "color": "copper" },
+    { "from": [19, 33], "to": [42, 51], "color": "copper" },
+    { "from": [20, 30], "to": [39, 13], "color": "blue" }
+  ],
+  "diamond": { "center": [42, 12], "radius": 7, "color": "blue" },
+  "toolbarAssetId": null
+}
