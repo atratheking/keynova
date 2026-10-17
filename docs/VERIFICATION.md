@@ -48,3 +48,7 @@ An earlier full expanded suite was measured with `/usr/bin/time -l`: **9.77 s re
 - Other operating systems, every production rig, simultaneous rig-scale retargeting, legacy Cubic variation and third-party addons are not comprehensively verified.
 
 See [FEATURES.md](FEATURES.md), [VISUAL.md](VISUAL.md) and [REFERENCE.md](REFERENCE.md) for the detailed coverage and evidence boundary.
+
+## Creator Store publication
+
+Keynova was uploaded through Roblox Studio and distributed free from the account Derpyburger33333 on 17 October 2026, asset **101249387759167**. The public listing was opened and Creator Store plugin search for `Keynova` returned the listing with a **FREE** label. [Store listing](https://create.roblox.com/store/asset/101249387759167/Keynova). No account-verification or CAPTCHA step was required during this publication; this does not establish another account's eligibility.

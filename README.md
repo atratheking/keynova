@@ -10,6 +10,10 @@ The interface and workflows were independently reconstructed from public Moon An
 
 ## Free download and quick setup
 
+**[Install Keynova free from the Roblox Creator Store](https://create.roblox.com/store/asset/101249387759167/Keynova)** — search **Keynova** in Studio's Toolbox under Plugins and choose the listing by **Derpyburger33333**, then click **Install**. The Creator Store listing is free.
+
+The GitHub release remains available for manual installation:
+
 1. [Download Keynova.rbxmx](https://github.com/atratheking/keynova/releases/latest/download/Keynova.rbxmx) from the [latest release](https://github.com/atratheking/keynova/releases/latest). No Node.js or build tools are needed to install it.
 2. Open Roblox Studio and a local place. In Explorer, right-click **ServerStorage → Insert from File…** and select `Keynova.rbxmx`.
 3. Select the inserted **Keynova** Script. Choose **Plugins → Save as Local Plugin**, name it Keynova and save. Some Studio versions also expose this on the Script's right-click menu.

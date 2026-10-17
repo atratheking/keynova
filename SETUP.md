@@ -2,7 +2,13 @@
 
 Keynova is a completely free, MIT-licensed, independent reconstruction of Moon Animator 2's publicly visible interface and animation workflows. No purchase of Moon Animator is needed to run Keynova. It runs inside **Roblox Studio**, not in a web browser.
 
-## Install the release
+## Install from the Roblox Creator Store
+
+1. Open **[Keynova on the Creator Store](https://create.roblox.com/store/asset/101249387759167/Keynova)**, or search **Keynova** in Studio's Toolbox under **Plugins**.
+2. Choose **Keynova** by **Derpyburger33333**. It is listed **FREE**.
+3. Use the listing's **Get Plugin / Install** flow, then open Keynova from Studio's Plugins toolbar. If you already own it, the website may show **Open in Studio** instead.
+
+## Manual installation from GitHub
 
 1. Download **[Keynova.rbxmx](https://github.com/atratheking/keynova/releases/latest/download/Keynova.rbxmx)**. If you downloaded the source ZIP instead, use the release link or build it as described below.
 2. Open Roblox Studio, sign in normally and open a local place.
